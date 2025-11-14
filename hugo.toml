@@ -1,0 +1,8 @@
+baseURL = ''
+languageCode = 'zh-cn'
+title = "Zhou's Blog"
+theme = 'ananke'
+[[menu.main]]
+name = "About"
+url = "/about"
+ 
