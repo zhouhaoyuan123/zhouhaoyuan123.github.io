@@ -5,4 +5,8 @@ theme = 'ananke'
 [[menu.main]]
 name = "About"
 url = "/about"
+
+[[menu.main]]
+name = "WebDaily"
+url = "/webdaily"
  
