@@ -4,6 +4,6 @@ draft = false
 title = 'About'
 +++
 
-## 我的项目
+## My Projects
 - [WebDaily](/webdaily)
-- 更多请防问[Github](https://github.com/zhouhaoyuan123)
+- For more, please visit [Github](https://github.com/zhouhaoyuan123)
