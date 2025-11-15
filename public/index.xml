@@ -6,8 +6,15 @@
     <description>Recent content on Zhou&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Nov 2025 07:53:18 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 10:26:21 +0800</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wd20251106</title>
+      <link>/wd20251106/</link>
+      <pubDate>Sat, 15 Nov 2025 10:26:21 +0800</pubDate>
+      <guid>/wd20251106/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;For details please visit &lt;a href=&#34;/webdaily/webpages/2025/1106.html&#34;&gt;the page&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;This page contains a canvas in which cars move from the right to the left or left to right (based on user choice), the user can adjust the percantage of certain types of cars. The canvas will fill the entire remaining space below the controls.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;Cars &#xA;    1. Red&#xA;    2. Yellow&#xA;    3. Green&#xA;    4. Black &#xA;    5. Blue&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;The cars will slow down if they bump into the car in front of them&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Wd20251102</title>
       <link>/wd20251102/</link>
