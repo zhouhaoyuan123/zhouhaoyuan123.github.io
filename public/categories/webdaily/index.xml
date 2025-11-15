@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zhou&#39;s Blog</title>
-    <link>/</link>
-    <description>Recent content on Zhou&#39;s Blog</description>
+    <title>WebDaily on Zhou&#39;s Blog</title>
+    <link>/categories/webdaily/</link>
+    <description>Recent content in WebDaily on Zhou&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 15 Nov 2025 07:53:18 +0800</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/webdaily/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wd20251102</title>
       <link>/wd20251102/</link>
       <pubDate>Sat, 15 Nov 2025 07:53:18 +0800</pubDate>
       <guid>/wd20251102/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;详情请见&lt;a href=&#34;/webdaily/webpages/2025/1102.html&#34;&gt;源码&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;当你将鼠标移动至文字时，像素会飘散开来，并最终消失&lt;/p&gt;&#xA;&lt;p&gt;这个页面在GPL v3.0及以上版本发行&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Fri, 14 Nov 2025 17:06:28 +0800</pubDate>
-      <guid>/about/</guid>
-      <description>&lt;h2 id=&#34;我的项目&#34;&gt;我的项目&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/webdaily&#34;&gt;WebDaily&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;更多请防问&lt;a href=&#34;https://github.com/zhouhaoyuan123&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
