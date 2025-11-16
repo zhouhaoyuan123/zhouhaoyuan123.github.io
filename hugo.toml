@@ -2,6 +2,7 @@ baseURL = ''
 languageCode = 'en-us'
 title = "Zhou's Blog"
 theme = 'ananke'
+enableRobotsTXT = true
 
 [taxonomies]
   category = 'categories'
