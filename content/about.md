@@ -4,6 +4,7 @@ draft = false
 title = 'About'
 +++
 
-## My Projects
-- [WebDaily](/webdaily)
+This blog is mainly about my projects
+
+- [WebDaily (current active project)](/webdaily)
 - For more, please visit [Github](https://github.com/zhouhaoyuan123)

@@ -6,8 +6,15 @@
     <description>Recent content on Zhou&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Nov 2025 10:26:21 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 10:47:40 +0800</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wd20251110</title>
+      <link>/wd20251110/</link>
+      <pubDate>Sun, 16 Nov 2025 10:47:40 +0800</pubDate>
+      <guid>/wd20251110/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;For details please visit &lt;a href=&#34;/webdaily/webpages/2025/1110.html&#34;&gt;the page&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;This issue is about a keyboard which randomly generates the letter of each key after the user presses a key , a div section containing all the contents the user has inputed is shown at the top. it will only show the last letters triggered so that the div will not go out of the screen. The current keyboard layout is shown at the bottom of the page. To ensure mobile users can use this page, there is also a input bar to trigger the on-screen keyboard for mobile devices&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Wd20251106</title>
       <link>/wd20251106/</link>
@@ -27,7 +34,7 @@
       <link>/about/</link>
       <pubDate>Fri, 14 Nov 2025 17:06:28 +0800</pubDate>
       <guid>/about/</guid>
-      <description>&lt;h2 id=&#34;my-projects&#34;&gt;My Projects&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/webdaily&#34;&gt;WebDaily&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;For more, please visit &lt;a href=&#34;https://github.com/zhouhaoyuan123&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;This blog is mainly about my projects&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/webdaily&#34;&gt;WebDaily (current active project)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;For more, please visit &lt;a href=&#34;https://github.com/zhouhaoyuan123&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
